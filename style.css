@@ -1,0 +1,40 @@
+body {
+    background-color:powderblue;
+}
+#paragraph
+{
+    font-family: monospace;
+    color:slategrey;
+    
+    
+}
+#logo
+{
+    margin: 5px;
+    padding: 5px;    
+}
+#list
+{
+    font-family: sans-serif;
+    color:darkblue;
+    
+}
+#Roster
+{
+    font-family: monospace;
+    color:darkgreen;
+}
+#Heading
+{
+    background-color:beige;
+    float:right;
+}
+.roundOne
+{
+    background-color:rgb(255, 252, 56);
+}
+
+.playOffs
+{
+    background-color: fuchsia;
+}
